@@ -1,0 +1,12 @@
+Dette er min første rigtige Git Projekt. 
+
+Lige nu går jeg på EAL skolen hvor vi lærer om basis HTML, CSS og JavaScript. 
+
+Under JavaScript er vi blevet delt op i grupper om de forskellige frameworks:
+- JQuery - Sarah, Sebastian
+- React - Winnie, Søren
+- Angular - Mikkel, Rasmus
+
+Jeg vil komme til at have kode eksemper af alle de frameworks. 
+
+Vil bruge dem både til fremlægning og eksamenen der kommer her d. 06/06 - 2018
