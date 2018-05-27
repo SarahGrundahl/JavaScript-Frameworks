@@ -838,6 +838,10 @@ a:hover, a:active {
 /*--------------------------------------------------------------
 ## Posts and pages
 --------------------------------------------------------------*/
+.post {
+	background-image: url("images/post.png");
+}
+
 .sticky {
 	display: block;
 }
