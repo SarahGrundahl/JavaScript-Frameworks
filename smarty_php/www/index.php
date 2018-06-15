@@ -1,5 +1,9 @@
 <?php
+namespace www;
+
 require 'libs/Smarty.class.php';
+use \includes\admin\internal\tasteamazon\TasteAmazon;
+use \includes\admin\internal\tasteamazon\Product;
 
 $smarty = new Smarty;
 
