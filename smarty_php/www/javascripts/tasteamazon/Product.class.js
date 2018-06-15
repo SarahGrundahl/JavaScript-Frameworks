@@ -1,6 +1,7 @@
 Product = {
     helloWorld: function(){
         var hello = "Hello World";
+        console.log(hello);
         Admin.rpc.invoke('Product.helloWorld', hello, Product.success, Product.failure);
     },
 

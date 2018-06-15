@@ -1,5 +1,4 @@
 <?php
-namespace www;
 
 require 'libs/Smarty.class.php';
 use \includes\admin\internal\tasteamazon\TasteAmazon;
