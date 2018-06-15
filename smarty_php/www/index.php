@@ -10,4 +10,4 @@ $smarty->cache_lifetime = 120;
 
 $smarty->assign("name", "Dette er min test side til tasteamazon.com");
 
-$smarty->display('index.tpl');
+$smarty->display('tasteamazon/index.tpl');
